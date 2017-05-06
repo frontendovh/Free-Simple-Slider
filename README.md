@@ -1,8 +1,8 @@
 # Free Simple Slider
-Slider with wery simple to use. Contains only a few necessary options.
+Slider with very simple to use. Contains only a few necessary options.
 
 ## Getting Started
-Copy free-simple-slider.css file to css directory in your project and free-simple-slider.js file js diretory. 
+Copy free-simple-slider.css file to css directory in your project and free-simple-slider.js file js directory.
 Next just add a link to the css file in your <heade>:
 
 ```html
@@ -50,7 +50,7 @@ Option |Default | Value 1 | Value 2 | Value 3
 
 ## Swipe
 
-Free Simple Sliders contains the [hammer.js](http://hammerjs.github.io/examples/) library which allow to swipe navigation on mobile devies. It is optional.
+Free Simple Sliders contains the [hammer.js](http://hammerjs.github.io/examples/) library which allow to swipe navigation on mobile devices. It is optional.
 
 To handle a swipe event copy hammer.min.js file to your js directory and before your closing <body> tag add:
 
