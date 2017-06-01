@@ -1,5 +1,5 @@
 # Free Simple Slider
-Slider with very simple to use. Contains only a few necessary options.
+Simple, very ease to use slider. Contains only a few necessary options.
 
 ## Getting Started
 Copy free-simple-slider.css file to css directory in your project and free-simple-slider.js file js directory.
